@@ -1,0 +1,5 @@
+print("\t Simple Interest")
+p = float(input("Enter the principal: ")) 
+t = float(input("Enter the no. of years: ")) 
+r = float(input("Enter the rate %: ")) 
+print ("Simple Interest is: ", p*t*r*0.01)
